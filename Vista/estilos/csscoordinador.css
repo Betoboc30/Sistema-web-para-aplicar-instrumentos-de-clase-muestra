@@ -1,0 +1,8 @@
+.card-img{
+    height: 300px;
+    object-fit: cover;
+};
+
+.hora{
+    font-size: 8px !important;
+}
